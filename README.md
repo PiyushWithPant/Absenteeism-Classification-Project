@@ -1,8 +1,8 @@
 # Absenteeism Classification Project
 
-###### ML-driven Data Science project to classify whether an employee is moderately or excessively absent in the workplace.
+#### ML-driven Data Science project to classify whether an employee is moderately or excessively absent in the workplace.
 
-#### Libraries/Packages/Classes used :books:
+### Libraries/Packages/Classes used :books:
 
 ```
 import numpy as np
@@ -18,7 +18,7 @@ from sklearn import metrics
 import pickle
 ```
 
-#### Features of the project :black_nib:
+### Features of the project :black_nib:
 
 - Algorithm :arrow_right: Logistic Regression
 - Detailed Preprocessing of dataset.
@@ -26,6 +26,6 @@ import pickle
 - Custom scaler
 - Standardization
 - Summary and analysis table
-- Deployment ready (without class modification) <i>This can be future work of the project to make it object-oriented for deployment.</i>
+- Deployment ready but without class modification. <i>(This can be future work of the project to make it object-oriented for deployment.)</i>
 
 > By Piyush Pant ( पियूष पंत)
